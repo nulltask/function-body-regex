@@ -5,6 +5,13 @@
   "author": "nulltask <nulltask@gmail.com>",
   "repository": "git://github.com/nulltask/function-body-regex.git",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha test",
+    "prepublish": "npm test"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
   "files": [
     "index.js",
     "Readme.md"
