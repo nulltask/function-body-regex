@@ -1,0 +1,16 @@
+{
+  "name": "function-body-regex",
+  "version": "0.0.1",
+  "description": "regex to rip off function body",
+  "author": "nulltask <nulltask@gmail.com>",
+  "repository": "git://github.com/nulltask/function-body-regex.git",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "Readme.md"
+  ],
+  "devDependencies": {
+    "better-assert": "^1.0.2",
+    "mocha": "^2.1.0"
+  }
+}
