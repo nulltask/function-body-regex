@@ -2,8 +2,6 @@
 var assert = require('better-assert');
 var regex = require('../');
 
-
-
 var fn1 = function(foo) { var bar = 1; return foo + bar; };
 var fn2 = function foo(bar) { var baz = 1; return bar + baz; };
 
