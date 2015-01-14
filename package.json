@@ -1,6 +1,6 @@
 {
   "name": "function-body-regex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "regex to rip off function body",
   "author": "nulltask <nulltask@gmail.com>",
   "repository": "git://github.com/nulltask/function-body-regex.git",
