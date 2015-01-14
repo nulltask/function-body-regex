@@ -1,0 +1,10 @@
+{
+  "name": "function-body-regex",
+  "repo": "nulltask/function-body-regex",
+  "description": "regex to rip off function body",
+  "version": "0.0.4",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
